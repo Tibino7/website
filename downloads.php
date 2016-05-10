@@ -77,19 +77,19 @@
                 <h4>&middot; You can download the latest version of the application here </h4>
             </div>
             <div class="col-lg-4">
-                <a class="btn btn-primary btn-block" style="color: #ffffff" href="#"><span class="glyphicon glyphicon-globe"></span> DOWNLOAD APP</a>
+                <a class="btn btn-primary btn-block" style="color: #ffffff; font-size: 110%" href="#"><span class="glyphicon glyphicon-globe"></span> DOWNLOAD APP</a>
             </div>
             <div class="col-lg-8">
                 <h4>&middot; You can access the github repository of the project here </h4>
             </div>
             <div class="col-lg-4">
-                <a class="btn btn-primary btn-block" style="color: #ffffff" href="#"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; GITHUB REPOSITORY</a>
+                <a class="btn btn-primary btn-block" style="color: #ffffff; font-size: 110%" href="#"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; GITHUB REPOSITORY</a>
             </div>
             <div class="col-lg-8">
                 <h4>&middot; You can buy Leap Motion from the company website here </h4>
             </div>
             <div class="col-lg-4">
-                <a class="btn btn-primary btn-block" style="color: #ffffff" href="https://www.leapmotion.com/"><span class="glyphicon glyphicon-download"></span> GET LEAP MOTION</a>
+                <a class="btn btn-primary btn-block" style="color: #ffffff; font-size: 110%" href="https://www.leapmotion.com/"><span class="glyphicon glyphicon-download"></span> GET LEAP MOTION</a>
             </div>
         </div>
 
